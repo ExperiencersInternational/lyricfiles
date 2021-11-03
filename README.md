@@ -1,5 +1,7 @@
 # lyricfiles
-just a dump of all my song lyric files (that I made myself) since you can't find synced lyrics for some songs
+just a dump of all my song lyric files (that I timestamped myself) since you can't find synced lyrics for some songs
+
+feel free to help out, by submitting pull requests to add synced lyrics (use this tool to help you make lrc's (https://lrc-maker.github.io/#/editor/)
 
 ## Tutorials
 
