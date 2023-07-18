@@ -1,0 +1,47 @@
+name: ✨ Request song to be added
+description: Suggest for a new song to be added to the list.
+title: '[✨ Add Channel]: '
+labels: ['enhancement']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Filling out this form will allow me to learn more about the song that you'd like myself or someone else to add to this collection. Podcasts aren't currently accepted, sorry.
+
+  - type: input
+    attributes:
+      label: Song name
+      description: Please specify the name of the song
+      placeholder: 'Never Gonna Give You Up'
+    validations:
+      required: true
+
+    - type: input
+    attributes:
+      label: Artist name
+      description: Please specify the name of the artist
+      placeholder: 'Rick Astley'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Album name
+      description: Please specify the name of the album
+      placeholder: 'Whenever You Need Somebody'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Links to song on streaming platforms
+      description: If you choose to link something, you must make sure that the track you link matches the details you provided earlier. Thanks! Just one thing, I would prefer no YouTube music video links, just because music videos are usually longer than the actual track.
+      placeholder: 'Spotify: XXX\nDeezer: XXX'
+
+  - type: checkboxes
+    attributes:
+      label: Check that the song is not already in another album (if you find a version of the track you are looking for that is a different length, you can still proceed)
+      options:
+        - label: I have checked this
+          required: true
