@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Filling out this form will allow me to learn more about the song that you'd like myself or someone else to add to this collection. Podcasts aren't currently accepted, sorry.
+        Filling out this form will allow me to learn more about the song that you'd like myself or someone else to create synchronised lyrics for to add to the collection. Podcasts aren't currently accepted, sorry.
 
   - type: input
     attributes:
@@ -17,7 +17,7 @@ body:
     validations:
       required: true
 
-    - type: input
+  - type: input
     attributes:
       label: Artist name
       description: Please specify the name of the artist
