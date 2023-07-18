@@ -1,6 +1,6 @@
 name: ✨ Request song to be added
 description: Suggest for a new song to be added to the list.
-title: '[✨ Add Channel]: '
+title: '[✨ Request song]: '
 labels: ['enhancement']
 
 body:
@@ -37,7 +37,7 @@ body:
     attributes:
       label: Links to song on streaming platforms
       description: If you choose to link something, you must make sure that the track you link matches the details you provided earlier. Thanks! Just one thing, I would prefer no YouTube music video links, just because music videos are usually longer than the actual track.
-      placeholder: 'Spotify: XXX\nDeezer: XXX'
+      placeholder: 'Deezer: XXX'
 
   - type: checkboxes
     attributes:
