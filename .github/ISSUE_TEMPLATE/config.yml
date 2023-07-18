@@ -1,1 +1,4 @@
 blank_issues_enabled: false
+contact_links:
+  - name: 🎵 File a pull request
+    url: https://github.com/ExperiencersInternational/lyricfiles/compare
