@@ -8,6 +8,7 @@ I've tested external lyrics to be compatible with:
 * Retro Music
 * Huawei Music (requires additional steps, see tutorials section)
 * Xiaomi Music
+* Media player bundled with Toshiba Android TVs, think its a Mediatek application
 
 ## Tutorials
 
