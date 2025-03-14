@@ -1,0 +1,1 @@
+Lyric capitalisation is a bit off at the moment since it's based off of the existing data on MusixMatch and data on the official website of the album (which has it all lowercase). Might see if I can analyse any lyrics out of free2play and Level One (VIP) eventually.
